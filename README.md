@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences accounting software
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
