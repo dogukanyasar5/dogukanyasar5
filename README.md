@@ -59,7 +59,7 @@
 
 
 <div
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dogukanyasar5&show_icons=true&locale=en" alt="dogukanyasar5" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukanyasar5&show_icons=true&locale=en&layout=compact" alt="dogukanyasar5" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dogukanyasar5&show_icons=true&locale=en&theme=tokyonight" alt="dogukanyasar5" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukanyasar5&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dogukanyasar5" /></p>
 
 
