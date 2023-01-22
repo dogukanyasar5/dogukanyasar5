@@ -1,5 +1,4 @@
-<iframe src="https://giphy.com/embed/S9oecmLUi26zYzrTZt" width="480" height="209" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/telegraphcreative-technology-it-cto-S9oecmLUi26zYzrTZt">via GIPHY</a></p>
-<h1 align="center">Hi 👋, I'm Doğukan</h1>
+#<h1 align="center">Hi 👋, I'm Doğukan</h1>
 <h3 align="center">A passionate full-stack developer from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukanyasar5&label=Profile%20views&color=0e75b6&style=flat" alt="dogukanyasar5" /> </p>
@@ -22,7 +21,7 @@
 
 - 📫 How to reach me **dogukanyasar.55@outlook.com**
 
-- 📄 Know about my experiences [accounting software](accounting software)
+- 📄 Know about my experiences accounting software
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -59,6 +58,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukanyasar5&show_icons=true&locale=en&layout=compact" alt="dogukanyasar5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukanyasar5&show_icons=true&locale=en" alt="dogukanyasar5" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dogukanyasar5&show_icons=true&locale=en" alt="dogukanyasar5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukanyasar5&" alt="dogukanyasar5" /></p>
