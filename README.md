@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **venomycka.panda.web**
 
-- 👨‍💻 All of my projects are available at [portfolio.dogukanyasar.io](portfolio.dogukanyasar.io)
+- 👨‍💻 All of my projects are available at [portfolio.dogukanyasar.dev](portfolio.dogukanyasar.dev)
 
-- 📝 I regularly write articles on [blog.dogukanyasar.io](blog.dogukanyasar.io)
+- 📝 I regularly write articles on [blog.dogukanyasar.io](blog.dogukanyasar.dev)
 
 - 💬 Ask me about **react,.net,typescript**
 
