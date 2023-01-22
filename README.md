@@ -1,4 +1,5 @@
-# <h1 align="center">Hi 👋, I'm Doğukan</h1>
+<iframe src="https://giphy.com/embed/S9oecmLUi26zYzrTZt" width="480" height="209" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/telegraphcreative-technology-it-cto-S9oecmLUi26zYzrTZt">via GIPHY</a></p>
+<h1 align="center">Hi 👋, I'm Doğukan</h1>
 <h3 align="center">A passionate full-stack developer from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukanyasar5&label=Profile%20views&color=0e75b6&style=flat" alt="dogukanyasar5" /> </p>
